@@ -1,0 +1,42 @@
+body {
+    background-color: powderblue;
+      }
+
+  hr {
+      /* background-color: white; */
+       /* border-style: dotted none none; */
+       /* height: 0px; */
+      border-style: none;
+      border-top-style:dotted;
+      width: 5%;
+      border-color: grey;
+      border-width: 6px;
+
+      }
+    #a{
+       /* background-color: gray; */
+      border-style:ridge;
+      color:purple;
+      font-size: 15px;
+      margin-left: 150px;
+      font-family: 'Audiowide', cursive;
+    }
+    #b{
+    font-family: 'Montserrat', sans-serif;
+    }
+  img{
+
+    height: 200px;
+    border-radius: 40px;
+     }
+    h1 {
+      color: #6c5ce7;
+      font-family: monospace;
+      font-size: 40px;
+    }
+h3{
+  color: #107595;
+font-size: 30px;
+font-style: oblique;
+text-decoration: underline;
+}
